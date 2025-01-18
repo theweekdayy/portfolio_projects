@@ -1,14 +1,14 @@
-## This repository contains my data analysis projects in SQL and Python.
+This repository contains my data analysis projects in SQL and Python.
 
-## Projects
+Projects
 
-### Python Projects
+Python Projects
 - **Project 1**: Olay Text Analysis
 
-### SQL Projects
+SQL Projects
 
 
-## Contact
+Contact
 Feel free to reach out for questions:
 - **LinkedIn**: www.linkedin.com/in/chanminhui
 
