@@ -1,5 +1,4 @@
-## This repository contains my projects in SQL and Python, demonstrating data analysis and problem-solving.
-
+## This repository contains my data analysis projects in SQL and Python.
 ## Projects
 
 ### Python Projects
