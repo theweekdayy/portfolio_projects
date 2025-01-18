@@ -1,6 +1,6 @@
 This repository contains my data analysis projects in SQL and Python.
 
-Projects
+Projects:
 
 Python Projects
 - **Project 1**: Olay Text Analysis
